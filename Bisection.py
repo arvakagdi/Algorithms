@@ -1,3 +1,5 @@
+'''Bisection Sort'''
+
 def bisect(L,num):
 
     def bisecthelp (L, num, low, high):
