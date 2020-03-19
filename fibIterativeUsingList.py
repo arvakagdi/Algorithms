@@ -18,5 +18,7 @@ def fibonacci_number(n):
 
 
 
-print(fibonacci_number(3000))
+print(fibonacci_number(198))
 
+
+# 0.02/5.00, max memory used: 9146368/536870912.)
